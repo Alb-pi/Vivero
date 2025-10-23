@@ -1,0 +1,45 @@
+/* src/Styles/estilo.css */
+
+@import "tailwindcss";
+
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tipografía base */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+/* Carrusel personalizado (si no usás Tailwind para esto) */
+.slide {
+  display: none;
+}
+
+.slide.active {
+  display: block;
+}
+
+/* Opcional: animación suave para transiciones */
+.fade-transition {
+  transition: opacity 0.7s ease-in-out;
+}
+
+/* Íconos sociales hover personalizados (si querés mantenerlos) */
+a[title="Facebook"]:hover {
+  color: #3b82f6; /* azul claro */
+}
+
+a[title="Instagram"]:hover {
+  color: #ec4899; /* rosa */
+}
+
+a[title="WhatsApp"]:hover {
+  color: #22c55e; /* verde */
+}
