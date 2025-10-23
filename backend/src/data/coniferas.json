@@ -1,0 +1,85 @@
+  [  {
+      "id": "1",
+      "nombre": "Araucaria Excelsa",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/araucariaexcelsa.jpg",
+      "descripcion": "La Araucaria excelsa, también conocida como pino de Norfolk, es una conífera perenne originaria de la isla Norfolk en Australia. Es apreciada por su forma simétrica y su follaje denso y verde oscuro. Esta especie puede crecer hasta 60 metros de altura en su hábitat natural, pero cuando se cultiva en jardines o interiores, generalmente alcanza alturas más modestas. La Araucaria excelsa es popular como planta ornamental debido a su apariencia distintiva y su capacidad para adaptarse a diferentes condiciones de crecimiento."
+    },
+    {
+      "id": "2",
+      "nombre": "Cipres Piramidal",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/ciprespiramidal.jpg",
+      "descripcion": "El Ciprés piramidal (Cupressus sempervirens) es una conífera perenne originaria de la región mediterránea. Es conocido por su forma columnar y su follaje denso y verde oscuro. Esta especie puede crecer hasta 20-30 metros de altura y es apreciada por su resistencia a la sequía y su capacidad para adaptarse a diferentes tipos de suelo. El Ciprés piramidal se utiliza comúnmente en jardines y paisajismo como árbol ornamental, seto o cortavientos debido a su forma elegante y su crecimiento vertical."
+    },
+    {
+      "id": "3",
+      "nombre": "Cipres Horizontal",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/cipreshorizontal.jpg",
+      "descripcion": "El Ciprés horizontal (Chamaecyparis pisifera 'Filifera Nana') es una conífera enana originaria de Japón. Es conocido por su forma compacta y su follaje fino y plumoso que crece en ramas horizontales. Esta especie generalmente alcanza una altura de 1-2 metros y se utiliza comúnmente en jardines y paisajismo como planta ornamental, en rocallas o como cobertura del suelo debido a su apariencia atractiva y su crecimiento denso."
+    },
+    {
+      "id": "4",
+      "nombre": "Cipres Totem",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/ciprestotem.jpg",
+      "descripcion": "El Ciprés Totem (Cupressus sempervirens 'Totem') es una variedad de ciprés originaria de la región mediterránea. Es conocido por su forma columnar y su follaje denso y verde oscuro. Esta variedad puede crecer hasta 10-15 metros de altura y es apreciada por su resistencia a la sequía y su capacidad para adaptarse a diferentes tipos de suelo. El Ciprés Totem se utiliza comúnmente en jardines y paisajismo como árbol ornamental, seto o cortavientos debido a su forma elegante y su crecimiento vertical."
+    },
+    {
+      "id": "5",
+      "nombre": "leylandi",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/leylandi.jpg",
+      "descripcion": "El Leylandi (Cupressocyparis leylandii) es una conífera híbrida originaria de Gran Bretaña. Es conocido por su rápido crecimiento y su follaje denso y verde oscuro. Esta especie puede crecer hasta 20-30 metros de altura y es apreciada por su capacidad para adaptarse a diferentes tipos de suelo y condiciones climáticas. El Leylandi se utiliza comúnmente en jardines y paisajismo como seto o cortavientos debido a su crecimiento rápido y su capacidad para proporcionar privacidad."
+    },
+    {
+      "id": "6",
+      "nombre": "Lambertiana",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/lambertiana.jpg",
+      "descripcion": "La Picea de Lambert (Picea lambertiana) es una conífera originaria de las montañas del oeste de América del Norte. Es conocida por ser el árbol conífero más alto del mundo, alcanzando alturas de hasta 80 metros en su hábitat natural. La Picea de Lambert tiene un follaje denso y verde azulado, con agujas largas y suaves que crecen en espiral alrededor de las ramas. Esta especie es apreciada por su madera de alta calidad, que se utiliza en la construcción y la fabricación de muebles. Además, la Picea de Lambert es un árbol ornamental popular en jardines y parques debido a su impresionante tamaño y su apariencia majestuosa."
+    },
+    {
+      "id": "7",
+      "nombre": "Juni Peros",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/juniperos.jpg",
+      "descripcion": "El Junípero (Juniperus communis) es una conífera perenne originaria de Europa, Asia y América del Norte. Es conocido por su follaje denso y verde azulado, con agujas cortas y puntiagudas que crecen en racimos. El Junípero puede crecer como un arbusto bajo o como un árbol pequeño, alcanzando alturas de hasta 10 metros. Esta especie es apreciada por sus bayas, que se utilizan en la producción de ginebra y como condimento en la cocina. Además, el Junípero tiene propiedades medicinales y se utiliza en la medicina tradicional para tratar diversas afecciones."
+    },
+    {
+      "id": "8",
+      "nombre": "Piceas",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/piceas.jpg",
+      "descripcion": "La Picea (Picea abies) es una conífera perenne originaria de Europa y Asia. Es conocida por su forma cónica y su follaje denso y verde oscuro, con agujas cortas y puntiagudas que crecen en espiral alrededor de las ramas. La Picea puede crecer hasta 50 metros de altura en su hábitat natural, pero cuando se cultiva en jardines o interiores, generalmente alcanza alturas más modestas. Esta especie es apreciada por su madera de alta calidad, que se utiliza en la construcción y la fabricación de muebles. Además, la Picea es un árbol ornamental popular en jardines y parques debido a su apariencia atractiva y su capacidad para adaptarse a diferentes condiciones de crecimiento."
+    },
+    {
+      "id": "9",
+      "nombre": "Elliotti",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/elliottis.jpg",
+      "descripcion": "La Picea de Elliott (Picea elliottii) es una conífera originaria del sureste de Estados Unidos. Es conocida por su follaje denso y verde oscuro, con agujas cortas y puntiagudas que crecen en espiral alrededor de las ramas. La Picea de Elliott puede crecer hasta 30 metros de altura en su hábitat natural, pero cuando se cultiva en jardines o interiores, generalmente alcanza alturas más modestas. Esta especie es apreciada por su madera de alta calidad, que se utiliza en la construcción y la fabricación de muebles. Además, la Picea de Elliott es un árbol ornamental popular en jardines y parques debido a su apariencia atractiva y su capacidad para adaptarse a diferentes condiciones de crecimiento."
+    },
+    {
+      "id": "10",
+      "nombre": "Halepensis",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/halepensis.jpg",
+      "descripcion": "El Pino de Alepo (Pinus halepensis) es una conífera originaria de la región mediterránea. Es conocido por su follaje denso y verde azulado, con agujas largas y delgadas que crecen en pares. El Pino de Alepo puede crecer hasta 20-25 metros de altura y es apreciado por su resistencia a la sequía y su capacidad para adaptarse a diferentes tipos de suelo. Esta especie se utiliza comúnmente en jardines y paisajismo como árbol ornamental debido a su apariencia atractiva y su crecimiento rápido."
+    },
+    {
+      "id": "11",
+      "nombre": "Thuja Cerco",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/thujacerco.jpg",
+      "descripcion": "La Thuja (Thuja occidentalis), también conocida como árbol de la vida, es una conífera perenne originaria de América del Norte. Es conocida por su follaje denso y verde oscuro, con hojas en forma de escamas que crecen en ramas planas. La Thuja puede crecer hasta 15-20 metros de altura y es apreciada por su resistencia a la sequía y su capacidad para adaptarse a diferentes tipos de suelo. Esta especie se utiliza comúnmente en jardines y paisajismo como seto o cortavientos debido a su crecimiento denso y su capacidad para proporcionar privacidad."
+    },
+    {
+      "id": "12",
+      "nombre": "Thuja Smaragd",
+      "categoria": "Coniferas",
+      "imagen": "/assets/img/plantas/coniferas/thujasmaragd.jpg",
+      "descripcion": "La Thuja Smaragd (Thuja occidentalis 'Smaragd') es una variedad de thuja originaria de América del Norte. Es conocida por su follaje denso y verde brillante, con hojas en forma de escamas que crecen en ramas planas. La Thuja Smaragd puede crecer hasta 4-6 metros de altura y es apreciada por su resistencia a la sequía y su capacidad para adaptarse a diferentes tipos de suelo. Esta variedad se utiliza comúnmente en jardines y paisajismo como seto o cortavientos debido a su crecimiento denso y su capacidad para proporcionar privacidad."
+    }
+  ]

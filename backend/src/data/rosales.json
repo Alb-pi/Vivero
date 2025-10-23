@@ -1,0 +1,17 @@
+[
+  {
+      "id": "1",
+      "nombre": "Rosa Trepadora",
+      "categoria": "Rosales",
+      "imagen": "/assets/img/plantas/rosales/rosatrepadora.jpg",
+      "descripcion": "La rosa trepadora es una variedad de rosa que se caracteriza por su capacidad para crecer verticalmente y trepar sobre estructuras como pérgolas, enrejados o muros. Estas rosas tienen tallos largos y flexibles que pueden alcanzar varios metros de altura, lo que las convierte en una opción popular para decorar jardines y espacios exteriores. Las rosas trepadoras producen flores grandes y vistosas que pueden variar en color, desde tonos suaves como el blanco y el rosa hasta colores más intensos como el rojo y el amarillo. Además de su belleza estética, las rosas trepadoras también pueden proporcionar sombra y privacidad cuando se cultivan en áreas adecuadas."
+    },
+    {
+      "id": "2",
+      "nombre": "Rosa Pteragonis",
+      "categoria": "Rosales",
+      "imagen": "/assets/img/plantas/rosales/rosapteragonis.jpg",
+      "descripcion": "La rosa pteragonis es una variedad de rosa que se caracteriza por sus flores grandes y vistosas, que pueden presentar una amplia gama de colores, desde tonos suaves como el blanco y el rosa hasta colores más intensos como el rojo y el amarillo. Esta variedad de rosa es conocida por su resistencia a enfermedades y plagas, lo que la convierte en una opción popular para jardineros y amantes de las plantas. La rosa pteragonis puede crecer en una variedad de condiciones climáticas, aunque prefiere climas templados y bien drenados. Es comúnmente utilizada en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, la rosa pteragonis también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones respiratorias y cutáneas."
+    }
+
+]

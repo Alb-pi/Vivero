@@ -1,0 +1,15 @@
+[  {
+      "id": "1",
+      "nombre": "Almendro",
+      "categoria": "Frutales secos",
+      "imagen": "/assets/img/plantas/frutos secos/almendro.jpg",
+      "descripcion": "El almendro (Prunus dulcis) es un árbol frutal caducifolio originario de Asia Central y el Mediterráneo, conocido por sus frutos secos llamados almendras. Este árbol puede alcanzar alturas de hasta 10 metros y tiene hojas lanceoladas y flores blancas o rosadas que aparecen en primavera antes de la foliación. El almendro es cultivado principalmente por sus frutos, que tienen una cáscara dura y una semilla comestible rica en grasas saludables, proteínas, vitaminas y minerales. Las almendras se consumen frescas, tostadas, en productos horneados, mantequillas y leches vegetales, y son apreciadas por sus beneficios para la salud cardiovascular y el control del peso. Además, el almendro tiene un significado cultural en muchas regiones, simbolizando la esperanza, la renovación y la belleza."
+    },
+    {
+      "id": "2",
+      "nombre": "Nogal",
+      "categoria": "Frutales secos",
+      "imagen": "/assets/img/plantas/frutos secos/nogal.jpg",
+      "descripcion": "El nogal (Juglans regia) es un árbol frutal caducifolio originario de Asia Central y Europa, conocido por sus frutos secos llamados nueces. Este árbol puede alcanzar alturas de hasta 30 metros y tiene hojas compuestas y flores pequeñas que aparecen en primavera antes de la foliación. El nogal es cultivado principalmente por sus frutos, que tienen una cáscara dura y una semilla comestible rica en grasas saludables, proteínas, vitaminas y minerales. Las nueces se consumen frescas, tostadas, en productos horneados, ensaladas y aceites, y son apreciadas por sus beneficios para la salud cerebral y cardiovascular. Además, el nogal tiene un significado cultural en muchas regiones, simbolizando la sabiduría, la longevidad y la fertilidad."
+    }
+]

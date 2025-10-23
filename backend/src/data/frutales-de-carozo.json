@@ -1,0 +1,30 @@
+[{
+      "id": "1",
+      "nombre": "Olivo",
+      "categoria": "Frutales de carozo",
+      "imagen": "/assets/img/plantas/frutales de carozo/olivo.jpg",
+      "descripcion": "El olivo (Olea europaea) es un árbol perenne originario de la región mediterránea, conocido por su longevidad y resistencia a condiciones climáticas adversas. Este árbol puede alcanzar alturas de hasta 15 metros y tiene un tronco retorcido y rugoso, con hojas pequeñas, alargadas y de color verde plateado. El olivo es cultivado principalmente por sus frutos, las aceitunas, que se utilizan para producir aceite de oliva, un ingrediente fundamental en la cocina mediterránea y reconocido por sus beneficios para la salud. Además, las aceitunas también se consumen directamente, ya sea frescas o curadas. El olivo tiene una gran importancia cultural e histórica en muchas civilizaciones, simbolizando la paz, la sabiduría y la prosperidad."
+    },
+    {
+      "id": "2",
+      "nombre": "Durazno",
+      "categoria": "Frutales de carozo",
+      "imagen": "/assets/img/plantas/frutales de carozo/durazno.jpg",
+      "descripcion": "El durazno (Prunus persica) es un árbol frutal caducifolio originario de China, conocido por sus frutos jugosos y dulces. Este árbol puede alcanzar alturas de hasta 7 metros y tiene hojas lanceoladas y flores rosadas que aparecen en primavera antes de la foliación. El durazno es cultivado principalmente por sus frutos, que son redondos, con una piel aterciopelada y una pulpa que varía en color desde el amarillo hasta el blanco, dependiendo de la variedad. Los duraznos se consumen frescos, en conservas, jugos y postres, y son ricos en vitaminas A y C, así como en fibra dietética. Además, el durazno tiene un significado cultural en muchas regiones, simbolizando la longevidad y la inmortalidad en la tradición china."
+    },
+    {
+      "id": "3",
+      "nombre": "Damasco",
+      "categoria": "Frutales de carozo",
+      "imagen": "/assets/img/plantas/frutales de carozo/damasco.jpg",
+      "descripcion": "El damasco (Prunus armeniaca) es un árbol frutal caducifolio originario de Asia Central, conocido por sus frutos pequeños, redondos y de sabor dulce y ligeramente ácido. Este árbol puede alcanzar alturas de hasta 8 metros y tiene hojas ovaladas y flores blancas o rosadas que aparecen en primavera antes de la foliación. El damasco es cultivado principalmente por sus frutos, que tienen una piel suave y aterciopelada y una pulpa anaranjada rica en vitaminas A y C, así como en fibra dietética. Los damascos se consumen frescos, secos, en conservas, jugos y postres, y también se utilizan en la producción de mermeladas y licores. Además, el damasco tiene un significado cultural en muchas regiones, simbolizando la belleza y la fertilidad."
+    },
+    {
+      "id": "4",
+      "nombre": "Ciruelas",
+      "categoria": "Frutales de carozo",
+      "imagen": "/assets/img/plantas/frutales de carozo/ciruelas.jpg",
+      "descripcion": "La ciruela (Prunus domestica) es un árbol frutal caducifolio originario de Europa y Asia, conocido por sus frutos redondos o ovalados y de sabor dulce y jugoso. Este árbol puede alcanzar alturas de hasta 10 metros y tiene hojas ovaladas y flores blancas o rosadas que aparecen en primavera antes de la foliación. La ciruela es cultivada principalmente por sus frutos, que tienen una piel suave y una pulpa que varía en color desde el amarillo hasta el púrpura, dependiendo de la variedad. Las ciruelas se consumen frescas, secas (conocidas como ciruelas pasas), en conservas, jugos y postres, y son ricas en vitaminas A y C, así como en fibra dietética. Además, la ciruela tiene un significado cultural en muchas regiones, simbolizando la prosperidad y la longevidad."
+
+    }
+]

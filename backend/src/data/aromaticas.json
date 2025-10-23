@@ -1,0 +1,79 @@
+[
+  {
+      "id": "1",
+      "nombre": "Menta",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/mentas.jpg",
+      "descripcion": "Planta perenne que crece en suelos húmedos y sombreados. Sus hojas son verdes y aromáticas, utilizadas en infusiones, postres y cócteles."
+    },
+    {
+      "id": "2",
+      "nombre": "Lavanda",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/lavanda.jpg",
+      "descripcion": "Planta perenne con flores moradas y un aroma distintivo. Se utiliza en aromaterapia, productos de belleza y para repeler insectos."
+    },
+    {
+      "id": "3",
+      "nombre": "Romero",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/romero.jpg",
+      "descripcion": "Arbusto perenne con hojas verdes y aromáticas. Se utiliza en la cocina para sazonar carnes, sopas y guisos, y también tiene propiedades medicinales"
+    },
+    {
+      "id": "4",
+      "nombre": "Ajenjo",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/ajenjo.jpg",
+      "descripcion": "Planta perenne con hojas verdes y un aroma amargo. Se utiliza en la producción de licores como el absenta y tiene propiedades medicinales."
+    },
+    {
+      "id": "5",
+      "nombre": "Ciboullete",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/ciboullete.jpg",
+      "descripcion": "Planta perenne con hojas verdes y un sabor suave a cebolla. Se utiliza en la cocina para sazonar ensaladas, sopas y platos de huevo."
+    },
+    {
+      "id": "6",
+      "nombre": "Ruda",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/ruda.jpg",
+      "descripcion": "Planta perenne con hojas verdes y un aroma fuerte y amargo. Se utiliza en la medicina tradicional para tratar diversos problemas de salud, pero debe usarse con precaución debido a su toxicidad."
+    },
+    {
+      "id": "7",
+      "nombre": "Curry",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/curry.jpg",
+      "descripcion": "Planta perenne con hojas verdes y un aroma distintivo. Se utiliza en la cocina india para preparar platos con sabor intenso y especiado."
+    },
+    {
+      "id": "8",
+      "nombre": "Cedron",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/|aromaticas/cedron.jpg",
+      "descripcion": "Planta perenne con hojas verdes y un aroma cítrico. Se utiliza en infusiones para aliviar problemas digestivos y también tiene propiedades relajantes."
+    },
+    {
+      "id": "9",
+      "nombre": "Cedron Chileno",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/cedronchileno.jpg",
+      "descripcion": "Planta perenne con hojas verdes y un aroma fuerte. Se utiliza en infusiones para aliviar problemas digestivos y también tiene propiedades medicinales."
+    },
+    {
+      "id": "10",
+      "nombre": "Eneldo",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/eneldo.jpg",
+      "descripcion": "Planta anual con hojas verdes y un aroma suave. Se utiliza en la cocina para sazonar pescados, ensaladas y encurtidos."
+    },
+    {
+      "id": "11",
+      "nombre": "Alcanfor",
+      "categoria": "Aromaticas",
+      "imagen": "/assets/img/plantas/aromaticas/alcanfor.jpg",
+      "descripcion": "Planta perenne con hojas verdes y un aroma fuerte y penetrante. Se utiliza en la medicina tradicional para aliviar dolores musculares y articulares, y también tiene propiedades insecticidas."
+    }
+]

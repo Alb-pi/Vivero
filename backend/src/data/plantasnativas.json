@@ -1,0 +1,66 @@
+[
+  {
+      "id": "1",
+      "nombre": "Jarilla",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantasnativas/jarilla.jpg",
+      "descripcion": "La jarilla es un arbusto nativo de regiones áridas y semiáridas, conocido por su resistencia a condiciones extremas de sequía y su capacidad para prosperar en suelos pobres. Esta planta perenne, que pertenece a la familia Zygophyllaceae, se caracteriza por sus hojas pequeñas y compuestas, así como por sus flores amarillas brillantes que atraen a polinizadores como abejas y mariposas. La jarilla desempeña un papel ecológico importante en su hábitat, ya que ayuda a prevenir la erosión del suelo y proporciona refugio y alimento para diversas especies de fauna. Además, algunas especies de jarilla tienen usos medicinales tradicionales, siendo empleadas en infusiones para tratar afecciones respiratorias y digestivas."
+    },
+    {
+      "id": "2",
+      "nombre": "Brea",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantasnativas/brea.jpg",
+      "descripcion": "La brea es un arbusto o pequeño árbol nativo de regiones áridas y semiáridas, conocido por su resistencia a condiciones extremas de sequía y su capacidad para prosperar en suelos pobres. Esta planta perenne, que pertenece a la familia Zygophyllaceae, se caracteriza por sus hojas pequeñas y compuestas, así como por sus flores amarillas brillantes que atraen a polinizadores como abejas y mariposas. La brea desempeña un papel ecológico importante en su hábitat, ya que ayuda a prevenir la erosión del suelo y proporciona refugio y alimento para diversas especies de fauna. Además, algunas especies de brea tienen usos medicinales tradicionales, siendo empleadas en infusiones para tratar afecciones respiratorias y digestivas."
+    },
+    {
+      "id": "3",
+      "nombre": "Retama",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantasnativas/retama.jpg",
+      "descripcion": "La retama es un arbusto o pequeño árbol nativo de regiones áridas y semiáridas, conocido por su resistencia a condiciones extremas de sequía y su capacidad para prosperar en suelos pobres. Esta planta perenne, que pertenece a la familia Fabaceae, se caracteriza por sus hojas pequeñas y compuestas, así como por sus flores amarillas brillantes que atraen a polinizadores como abejas y mariposas. La retama desempeña un papel ecológico importante en su hábitat, ya que ayuda a prevenir la erosión del suelo y proporciona refugio y alimento para diversas especies de fauna. Además, algunas especies de retama tienen usos medicinales tradicionales, siendo empleadas en infusiones para tratar afecciones respiratorias y digestivas."
+    },
+    {
+      "id": "4",
+      "nombre": "Olivillos",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantasnativas/olivillos.jpg",
+      "descripcion": "El olivillo es un arbusto o pequeño árbol nativo de regiones áridas y semiáridas, conocido por su resistencia a condiciones extremas de sequía y su capacidad para prosperar en suelos pobres. Esta planta perenne, que pertenece a la familia Elaeocarpaceae, se caracteriza por sus hojas pequeñas y compuestas, así como por sus flores blancas o rosadas que atraen a polinizadores como abejas y mariposas. El olivillo desempeña un papel ecológico importante en su hábitat, ya que ayuda a prevenir la erosión del suelo y proporciona refugio y alimento para diversas especies de fauna. Además, algunas especies de olivillo tienen usos medicinales tradicionales, siendo empleadas en infusiones para tratar afecciones respiratorias y digestivas."
+    },
+    {
+      "id": "5",
+      "nombre": "Chañar",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantasnativas/chañar.jpg",
+      "descripcion": "El chañar es un árbol nativo de regiones áridas y semiáridas, conocido por su resistencia a condiciones extremas de sequía y su capacidad para prosperar en suelos pobres. Esta planta perenne, que pertenece a la familia Bignoniaceae, se caracteriza por sus hojas compuestas y sus flores amarillas brillantes que atraen a polinizadores como abejas y mariposas. El chañar desempeña un papel ecológico importante en su hábitat, ya que ayuda a prevenir la erosión del suelo y proporciona refugio y alimento para diversas especies de fauna. Además, el chañar produce frutos comestibles que son apreciados por su sabor dulce y sus propiedades nutritivas, siendo utilizados en la preparación de mermeladas, jugos y otros productos alimenticios."
+    },
+    {
+      "id": "6",
+      "nombre": "Quebracho Colorado",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantas/plantasnativas/quebrachocolorado.jpg",
+      "descripcion": "El quebracho colorado es un árbol nativo de regiones áridas y semiáridas, conocido por su resistencia a condiciones extremas de sequía y su capacidad para prosperar en suelos pobres. Esta planta perenne, que pertenece a la familia Anacardiaceae, se caracteriza por sus hojas compuestas y sus flores pequeñas y verdosas que atraen a polinizadores como abejas y mariposas. El quebracho colorado desempeña un papel ecológico importante en su hábitat, ya que ayuda a prevenir la erosión del suelo y proporciona refugio y alimento para diversas especies de fauna. Además, el quebracho colorado es valorado por su madera dura y resistente, que se utiliza en la construcción, la fabricación de muebles y la producción de carbón vegetal."
+    },
+    {
+      "id": "7",
+      "nombre": "Retamo",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantas/plantasnativas/retamo.jpg",
+      "descripcion": "El retamo es un arbusto o pequeño árbol nativo de regiones áridas y semiáridas, conocido por su resistencia a condiciones extremas de sequía y su capacidad para prosperar en suelos pobres. Esta planta perenne, que pertenece a la familia Fabaceae, se caracteriza por sus hojas pequeñas y compuestas, así como por sus flores amarillas brillantes que atraen a polinizadores como abejas y mariposas. El retamo desempeña un papel ecológico importante en su hábitat, ya que ayuda a prevenir la erosión del suelo y proporciona refugio y alimento para diversas especies de fauna. Además, algunas especies de retamo tienen usos medicinales tradicionales, siendo empleadas en infusiones para tratar afecciones respiratorias y digestivas."
+    },
+    {
+      "id": "8",
+      "nombre": "Mistol",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantas/plantasnativas/mistol.jpg",
+      "descripcion": "El mistol es un árbol nativo de regiones áridas y semiáridas, conocido por su resistencia a condiciones extremas de sequía y su capacidad para prosperar en suelos pobres. Esta planta perenne, que pertenece a la familia Zygophyllaceae, se caracteriza por sus hojas compuestas y sus flores amarillas brillantes que atraen a polinizadores como abejas y mariposas. El mistol desempeña un papel ecológico importante en su hábitat, ya que ayuda a prevenir la erosión del suelo y proporciona refugio y alimento para diversas especies de fauna. Además, el mistol produce frutos comestibles que son apreciados por su sabor dulce y sus propiedades nutritivas, siendo utilizados en la preparación de mermeladas, jugos y otros productos alimenticios."
+    },
+    {
+      "id": "9",
+      "nombre": "Cretáceas Nativas",
+      "categoria": "Plantas nativas",
+      "imagen": "/assets/img/plantas/plantasnativas/cretaceasnativas.jpg",
+      "descripcion": "Las cretáceas nativas son un grupo diverso de plantas que pertenecen a la familia Cactaceae, conocidas por su adaptabilidad a condiciones áridas y semiáridas. Estas plantas suculentas se caracterizan por sus tallos gruesos y carnosos que almacenan agua, así como por sus espinas que protegen contra herbívoros. Las cretáceas nativas desempeñan un papel ecológico importante en sus hábitats, ya que proporcionan refugio y alimento para diversas especies de fauna, incluyendo aves, insectos y pequeños mamíferos. Además, muchas cretáceas nativas producen flores vistosas y frutos comestibles que son apreciados por su sabor y valor nutricional. Estas plantas son valoradas tanto por su belleza ornamental como por su capacidad para sobrevivir en entornos desafiantes."
+
+    }
+]

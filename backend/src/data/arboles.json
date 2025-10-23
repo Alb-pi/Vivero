@@ -1,0 +1,296 @@
+[
+    {
+      "id": "1",
+      "nombre": "Acacia Visco",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acaciavisco.jpg",
+      "descripcion": "Acacia visco es un árbol perenne que puede alcanzar hasta 10 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "2",
+      "nombre": "Acacia Blanca",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acaciablanca.jpg",
+      "descripcion": "Acacia blanca es un árbol de hoja perenne que puede crecer hasta 15 metros de altura. Tiene hojas compuestas y flores blancas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+   },
+    {
+      "id": "3",
+      "nombre": "Acacia Carnaval",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acaciacarnaval.jpg",
+      "descripcion": "Acacia carnaval es un árbol de hoja perenne que puede crecer hasta 12 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "4",
+      "nombre": "Acacia Bola",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acaciabola.jpg",
+      "descripcion": "Acacia bola es un árbol de hoja perenne que puede crecer hasta 8 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "5",
+      "nombre": "Acacia Frisia",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acaciafrisia.jpg",
+      "descripcion": "Acacia frisia es un árbol de hoja perenne que puede crecer hasta 10 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "6",
+      "nombre": "Acacia Longifolia",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acacialongifolia.jpg",
+      "descripcion": "Acacia longifolia es un árbol de hoja perenne que puede crecer hasta 15 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "7",
+      "nombre": "Acacia Constantinopla",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acaciaconstantinopla.jpg",
+      "descripcion": "Acacia constantinopla es un árbol de hoja perenne que puede crecer hasta 12 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "8",
+      "nombre": "Acacia Casque Rouge",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acaciacasquerouge.jpg",
+      "descripcion": "Acacia casque rouge es un árbol de hoja perenne que puede crecer hasta 10 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "9",
+      "nombre": "Acer Negundo",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acernegundo.jpg",
+      "descripcion": "Acer negundo, conocido como arce negundo o arce de boxelder, es un árbol caducifolio que puede crecer hasta 20 metros de altura. Tiene hojas compuestas y flores verdes en racimos. Es originario de América del Norte y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "10",
+      "nombre": "Acer Ginnala",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acerginnala.jpg",
+      "descripcion": "Acer ginnala, conocido como arce de Amur o arce de hoja de álamo, es un árbol caducifolio que puede crecer hasta 6 metros de altura. Tiene hojas compuestas y flores rojas en racimos. Es originario de Asia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "11",
+      "nombre": "Aguaribay",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/aguaribay.jpg",
+      "descripcion": "Aguaribay, conocido científicamente como Schinus molle, es un árbol perenne que puede alcanzar hasta 15 metros de altura. Tiene hojas compuestas y flores pequeñas de color blanco o rosado. Es originario de América del Sur y se utiliza comúnmente como árbol ornamental en jardines y parques, además de sus propiedades medicinales y culinarias."
+    },
+    {
+      "id": "12",
+      "nombre": "Alamo Criollo",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/alamocriollo.jpg",
+      "descripcion": "Álamo criollo, conocido científicamente como Populus alba, es un árbol caducifolio que puede crecer hasta 30 metros de altura. Tiene hojas lobuladas y flores en amentos. Es originario de Europa y Asia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "13",
+      "nombre": "Alamo 214",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/alamo214.jpg",
+      "descripcion": "Álamo 214, conocido científicamente como Populus x canadensis 'Robusta', es un árbol caducifolio que puede crecer hasta 25 metros de altura. Tiene hojas lobuladas y flores en amentos. Es un híbrido entre Populus deltoides y Populus nigra, y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "14",
+      "nombre": "Alamo Chino",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/alamochino.jpg",
+      "descripcion":"Alamo chino"
+    },
+    {
+      "id": "15",
+      "nombre": "Alamo Plateado",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/alamoplateado.jpg",
+      "descripcion": "Alamo plateado"
+    },
+    {
+      "id": "16",
+      "nombre": "Alamo Conti",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/alamoconti.jpg",
+      "descripcion": "Alamo conti"
+    },
+    {
+      "id": "17",
+      "nombre": "Algarrobo",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/algarrobo.jpg",
+      "descripcion": "Algarrobo"
+    },
+    {
+      "id": "18",
+      "nombre": "Casuarina",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/casuarina.jpg",
+      "descripcion": "Casuarina, conocido científicamente como Casuarina equisetifolia, es un árbol perenne que puede crecer hasta 20 metros de altura. Tiene hojas aciculares y flores pequeñas de color verde. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques, además de sus propiedades para la estabilización de suelos y protección contra la erosión."
+    },
+    {
+      "id": "19",
+      "nombre": "Catalpa",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/catalpa.jpg",
+      "descripcion": "Catalpa, conocido científicamente como Catalpa bignonioides, es un árbol caducifolio que puede crecer hasta 15 metros de altura. Tiene hojas grandes y flores blancas en racimos. Es originario de América del Norte y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "20",
+      "nombre": "Cina Cina",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/cinacina.jpg",
+      "descripcion": "Cina cina, conocido científicamente como Melia azedarach 'Cina Cina', es un árbol caducifolio que puede crecer hasta 15 metros de altura. Tiene hojas compuestas y flores lilas en racimos. Es originario de Asia y Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "21",
+      "nombre": "Eucaliptus Camaldulensis",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/camaldulensis.jpg",
+      "descripcion": "Eucaliptus camaldulensis, conocido como eucalipto rojo o eucalipto de río, es un árbol perenne que puede crecer hasta 45 metros de altura. Tiene hojas lanceoladas y flores blancas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques, además de sus propiedades maderables y medicinales."
+    },
+    {
+      "id": "22",
+      "nombre": "Eucaliptus Cinerea",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/eucaliptuscinerea.jpg",
+      "descripcion": "Eucaliptus cinerea, conocido como eucalipto plateado, es un árbol perenne que puede crecer hasta 20 metros de altura. Tiene hojas redondeadas de color verde plateado y flores blancas. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques, además de sus propiedades aromáticas y medicinales."
+    },
+    {
+      "id": "23",
+      "nombre": "Fresno Americano",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/fresnoamericano.jpg",
+      "descripcion": "Fresno americano, conocido científicamente como Fraxinus americana, es un árbol caducifolio que puede crecer hasta 30 metros de altura. Tiene hojas compuestas y flores verdes en racimos. Es originario de América del Norte y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "24",
+      "nombre": "Fresno Europeo",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/fresnoeuropeo.jpg",
+      "descripcion": "Fresno europeo, conocido científicamente como Fraxinus excelsior, es un árbol caducifolio que puede crecer hasta 30 metros de altura. Tiene hojas compuestas y flores verdes en racimos. Es originario de Europa y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "25",
+      "nombre": "Fresno Dorado",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/fresnodorado.jpg",
+      "descripcion": "Fresno dorado, conocido científicamente como Fraxinus excelsior 'Aurea', es un árbol caducifolio que puede crecer hasta 20 metros de altura. Tiene hojas compuestas y flores verdes en racimos. Es originario de Europa y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "26",
+      "nombre": "Fresno Rojo",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/fresnorojo.jpg",
+      "descripcion": "Fresno rojo, conocido científicamente como Fraxinus pennsylvanica, es un árbol caducifolio que puede crecer hasta 20 metros de altura. Tiene hojas compuestas y flores verdes en racimos. Es originario de América del Norte y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "27",
+      "nombre": "Guaran Amarillo",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/guaranamarillo.jpg",
+      "descripcion": "Guarán amarillo, conocido científicamente como Tabebuia chrysotricha, es un árbol caducifolio que puede crecer hasta 10 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de América del Sur y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "28",
+      "nombre": "Grevillea Robusta",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/grevillearobusta.jpg",
+      "descripcion": "Grevillea robusta, conocido como árbol de seda o grevillea, es un árbol perenne que puede crecer hasta 20 metros de altura. Tiene hojas compuestas y flores naranjas en racimos. Es originario de Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "29",
+      "nombre": "Ibira Pita",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/ibirapita.jpg",
+      "descripcion": "Ibirá pitá, conocido científicamente como Peltophorum dubium, es un árbol caducifolio que puede crecer hasta 20 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de América del Sur y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "30",
+      "nombre": "Crespon",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/crespon.jpg",
+      "descripcion": "Crespon, conocido científicamente como Lagerstroemia indica, es un árbol caducifolio que puede crecer hasta 6 metros de altura. Tiene hojas ovaladas y flores de colores vibrantes como rosa, púrpura y blanco que aparecen en verano. Es originario de Asia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "31",
+      "nombre": "Jacaranda",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/jacaranda.jpg",
+      "descripcion": "Jacaranda, conocido científicamente como Jacaranda mimosifolia, es un árbol caducifolio que puede crecer hasta 15 metros de altura. Tiene hojas compuestas y flores de color púrpura en racimos. Es originario de Sudamérica y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "32",
+      "nombre": "Lapacho Rosado",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/lapachorosado.jpg",
+      "descripcion": "Lapacho rosado, conocido científicamente como Handroanthus impetiginosus, es un árbol caducifolio que puede crecer hasta 12 metros de altura. Tiene hojas compuestas y flores rosadas en racimos. Es originario de América del Sur y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "33",
+      "nombre": "Ligustro Verde",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/ligustroverde.jpg",
+      "descripcion": "Ligustro verde, conocido científicamente como Ligustrum lucidum, es un árbol perenne que puede crecer hasta 10 metros de altura. Tiene hojas verdes brillantes y flores blancas en racimos. Es originario de China y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "34",
+      "nombre": "Ligustro Aureo",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/ligustroaureo.jpg",
+      "descripcion": "Ligustro áureo, conocido científicamente como Ligustrum lucidum 'Aureum', es un árbol perenne que puede crecer hasta 10 metros de altura. Tiene hojas verdes brillantes con bordes amarillos y flores blancas en racimos. Es originario de China y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "35",
+      "nombre": "Mora Hibrida",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/morahibrida.jpg",
+      "descripcion": "Mora híbrida, conocida científicamente como Morus alba x Morus nigra, es un árbol caducifolio que puede crecer hasta 10 metros de altura. Tiene hojas verdes y produce frutos comestibles de color"
+    },
+    {
+      "id": "36",
+      "nombre": "Paraiso Sombrilla",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/paraisosombrilla.jpg",
+      "descripcion": "Paraiso sombrilla, conocido científicamente como Melia azedarach, es un árbol caducifolio que puede crecer hasta 15 metros de altura. Tiene hojas compuestas y flores lilas en racimos. Es originario de Asia y Australia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "37",
+      "nombre": "Platano",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/acaciablanca.jpg",
+      "descripcion": "Plátano, conocido científicamente como Platanus x acerifolia, es un árbol caducifolio que puede crecer hasta 30 metros de altura. Tiene hojas grandes y lobuladas y flores en amentos. Es un híbrido entre Platanus orientalis y Platanus occidentalis, y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "38",
+      "nombre": "Ciruelo en Flor",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/cirueloenflor.jpg",
+      "descripcion": "Ciruelo en flor, conocido científicamente como Prunus cerasifera, es un árbol caducifolio que puede crecer hasta 8 metros de altura. Tiene hojas ovaladas y flores rosadas que aparecen en primavera antes de las hojas. Es originario de Europa y Asia y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "39",
+      "nombre": "Sauce Llorón",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/saucelloron.jpg",
+      "descripcion": "Sauce llorón, conocido científicamente como Salix babylonica, es un árbol caducifolio que puede crecer hasta 10 metros de altura. Tiene hojas lanceoladas y ramas colgantes que le dan un aspecto elegante. Es originario de China y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "40",
+      "nombre": "Sauce Eléctrico",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/sauceelectrico.jpg",
+      "descripcion": "Sauce eléctrico, conocido científicamente como Salix babylonica 'Tristis', es un árbol caducifolio que puede crecer hasta 10 metros de altura. Tiene hojas lanceoladas y ramas colgantes que le dan un aspecto elegante. Es originario de China y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "41",
+      "nombre": "Sen de Campo",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/sendecampo.jpg",
+      "descripcion": "Sen de campo, conocido científicamente como Senna spectabilis, es un árbol caducifolio que puede crecer hasta 15 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de América del Sur y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    },
+    {
+      "id": "42",
+      "nombre": "Tipa",
+      "categoria": "Arboles",
+      "imagen": "/assets/img/plantas/arboles/tipa.jpg",
+      "descripcion": "Tipa, conocido científicamente como Tipuana tipu, es un árbol caducifolio que puede crecer hasta 20 metros de altura. Tiene hojas compuestas y flores amarillas en racimos. Es originario de Sudamérica y se utiliza comúnmente como árbol ornamental en jardines y parques."
+    }
+  ]

@@ -1,0 +1,30 @@
+{
+  "plantas": [
+    "arboles",
+    "coniferas",
+    "frutales-de-carozo",
+    "frutales-de-pepita",
+    "frutales-secos",
+    "gramineas",
+    "arbustos",
+    "aromaticas",
+    "plantines",
+    "plantas-nativas",
+    "rosales"
+  ],
+  "estructuras": [
+    "estructura-budista",
+    "estructura-hinduista",
+    "juegos-de-jardin"
+  ],
+  "productos": [
+    "sustrato",
+    "fertilizantes",
+    "insecticidas",
+    "herbicidas",
+    "compost",
+    "macetas",
+    "bonsai"
+  ],
+  "otros": []
+}

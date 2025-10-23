@@ -1,0 +1,48 @@
+{
+  "contacto": {
+    "direccion": {
+      "texto": "Calle 1 y Víctor Abel Pinto, San Juan, Argentina",
+      "icono": "fas fa-map-marker-alt"
+    },
+    "telefono": {
+      "texto": "+54 9 264 589 7987",
+      "icono": "fas fa-phone"
+    },
+    "email": {
+      "texto": "viveroelcarmelo@gmail.com",
+      "icono": "fas fa-envelope"
+    },
+    "registro": {
+      "texto": "Senasa S20000062 / INASE 5102471",
+      "icono": "fas fa-id-card"
+    }
+  },
+  "horarios": {
+    "semana": "Lunes a Sábado: 8:00 – 18:00",
+    "domingo": "Domingos y feriados: 8:00 – 13:00"
+  },
+  "mapa": {
+    "src":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3426.764916438989!2d-68.5843217250986!3d-31.63347277416085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96814f5b2e2e6c3b%3A0x4c0a1e5e9e2b7c4a!2sVivero%20El%20Carmelo!5e0!3m2!1ses-419!2sar!4v1697051234567!5m2!1ses-419!2sar",
+    "titulo": "Ubicación Vivero El Carmelo"
+  },
+  "redes": [
+    {
+      "nombre": "Facebook",
+      "icono": "fab fa-facebook-f",
+      "url": "https://www.facebook.com/viveroelcarmelo"
+    },
+    {
+      "nombre": "Instagram",
+      "icono": "fab fa-instagram",
+      "url": "https://www.instagram.com/viveroelcarmelo"
+    },
+    {
+      "nombre": "WhatsApp",
+      "icono": "fab fa-whatsapp",
+      "url": "https://wa.me/5492645897987"
+    }
+  ],
+  "copyright": {
+    "texto": "© 2025 Vivero El Carmelo. Todos los derechos reservados."
+  }
+}

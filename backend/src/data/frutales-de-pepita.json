@@ -1,0 +1,44 @@
+[
+  {
+      "id": "1",
+      "nombre": "Manzana",
+      "categoria": "Frutales de pepita",
+      "imagen": "/assets/img/frutales de pepita/manzana.jpg",
+      "descripcion": "El manzano (Malus domestica) es un árbol frutal caducifolio originario de Asia Central, conocido por sus frutos redondos y jugosos llamados manzanas. Este árbol puede alcanzar alturas de hasta 12 metros y tiene hojas ovaladas y flores blancas o rosadas que aparecen en primavera antes de la foliación. El manzano es cultivado principalmente por sus frutos, que varían en color desde el verde hasta el rojo y amarillo, dependiendo de la variedad. Las manzanas se consumen frescas, en jugos, compotas, postres y sidras, y son ricas en fibra dietética, vitamina C y antioxidantes. Además, el manzano tiene un significado cultural en muchas regiones, simbolizando la salud, la sabiduría y la tentación."
+    },
+    {
+      "id": "2",
+      "nombre": "Perales",
+      "categoria": "Frutales de pepita",
+      "imagen": "/assets/img/frutales de pepita/perales.jpg",
+      "descripcion": "El peral (Pyrus communis) es un árbol frutal caducifolio originario de Europa y Asia, conocido por sus frutos dulces y jugosos llamados peras. Este árbol puede alcanzar alturas de hasta 10 metros y tiene hojas ovaladas y flores blancas que aparecen en primavera antes de la foliación. El peral es cultivado principalmente por sus frutos, que varían en color desde el verde hasta el amarillo y rojo, dependiendo de la variedad. Las peras se consumen frescas, en jugos, compotas, postres y conservas, y son ricas en fibra dietética, vitamina C y antioxidantes. Además, el peral tiene un significado cultural en muchas regiones, simbolizando la longevidad, la prosperidad y la fertilidad."
+    },
+    {
+      "id": "3",
+      "nombre": "Membrillero",
+      "categoria": "Frutales de pepita",
+      "imagen": "/assets/img/plantas/frutales de pepita/membrillero.jpg",
+      "descripcion": "El membrillero (Cydonia oblonga) es un árbol frutal caducifolio originario de Asia Occidental, conocido por sus frutos aromáticos y astringentes llamados membrillos. Este árbol puede alcanzar alturas de hasta 5 metros y tiene hojas ovaladas y flores rosadas que aparecen en primavera antes de la foliación. El membrillero es cultivado principalmente por sus frutos, que tienen una piel amarilla y una pulpa dura y fragante. Los membrillos se consumen generalmente cocidos, en mermeladas, jaleas, postres y licores, ya que su sabor astringente los hace poco aptos para el consumo en fresco. Además, el membrillero tiene un significado cultural en muchas regiones, simbolizando la fertilidad, la abundancia y la protección."
+    },
+    {
+      "id": "4",
+      "nombre": "Vid",
+      "categoria": "Frutales de pepita",
+      "imagen": "/assets/img/plantas/frutales de pepita/vid.jpg",
+      "descripcion": "La vid (Vitis vinifera) es una planta trepadora originaria de la región mediterránea y Asia Occidental, conocida por sus frutos llamados uvas. La vid puede crecer hasta varios metros de longitud y tiene hojas grandes y lobuladas, así como racimos de flores pequeñas que se desarrollan en primavera. La vid es cultivada principalmente por sus frutos, que varían en color desde el verde hasta el rojo, morado y blanco, dependiendo de la variedad. Las uvas se consumen frescas, en jugos, pasas, vinos y otros productos derivados, y son ricas en antioxidantes, vitaminas y minerales. Además, la vid tiene un significado cultural en muchas regiones, simbolizando la abundancia, la fertilidad y la celebración." 
+    },
+    {
+      "id": "57",
+      "nombre": "Granada",
+      "categoria": "Frutales de pepita",
+      "imagen": "/assets/img/plantas/frutales de pepita/granada.jpg",
+      "descripcion": "La granada (Punica granatum) es un árbol frutal caducifolio originario de la región mediterránea y Asia Occidental, conocido por sus frutos redondos y jugosos llamados granadas. Este árbol puede alcanzar alturas de hasta 6 metros y tiene hojas lanceoladas y flores rojas o anaranjadas que aparecen en primavera y verano. La granada es cultivada principalmente por sus frutos, que tienen una piel gruesa y una pulpa llena de semillas comestibles rodeadas de jugo dulce y ácido. Las granadas se consumen frescas, en jugos, ensaladas, postres y salsas, y son ricas en antioxidantes, vitamina C y fibra dietética. Además, la granada tiene un significado cultural en muchas regiones, simbolizando la fertilidad, la abundancia y la vida eterna."
+    },
+    {
+      "id": "6",
+      "nombre": "Guinda",
+      "categoria": "Frutales de pepita",
+      "imagen": "/assets/img/plantas/frutales de pepita/guinda.jpg",
+      "descripcion": "La guinda (Prunus cerasus) es un árbol frutal caducifolio originario de Europa y Asia, conocido por sus frutos pequeños, redondos y de sabor ácido llamados guindas o cerezas ácidas. Este árbol puede alcanzar alturas de hasta 10 metros y tiene hojas ovaladas y flores blancas que aparecen en primavera antes de la foliación. La guinda es cultivada principalmente por sus frutos, que tienen una piel roja o amarilla y una pulpa jugosa y ácida. Las guindas se consumen frescas, en jugos, mermeladas, postres y licores, y son ricas en antioxidantes, vitamina C y fibra dietética. Además, la guinda tiene un significado cultural en muchas regiones, simbolizando la alegría, la prosperidad y la renovación."
+    }
+]

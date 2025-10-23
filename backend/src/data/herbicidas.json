@@ -1,0 +1,9 @@
+[   
+  {
+      "id": "1",
+      "nombre": "Herbicidas",
+      "categoria": "Herbicidas",
+      "imagen": "/assets/img/productos/herbicidas/herbicidas.jpg",
+      "descripcion": "Los herbicidas son sustancias químicas utilizadas para controlar o eliminar plantas no deseadas, conocidas como malezas, que compiten con los cultivos por nutrientes, agua y luz solar. Estos productos pueden ser selectivos, afectando solo a ciertas especies de plantas, o no selectivos, eliminando todas las plantas con las que entran en contacto. Los herbicidas se aplican de diversas formas, incluyendo pulverización foliar, aplicación al suelo y tratamiento de semillas. Es importante utilizar herbicidas de manera responsable y siguiendo las recomendaciones del fabricante para minimizar el impacto ambiental y evitar la resistencia de las malezas a estos productos."
+  }
+]

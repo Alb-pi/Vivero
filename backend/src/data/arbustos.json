@@ -1,0 +1,93 @@
+[
+  {
+      "id": "1",
+      "nombre": "Abelia Grandiflora",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/abeliagrandiflora.jpg",
+      "descripcion": "La Abelia Grandiflora es un arbusto perenne originario de Asia, conocido por sus flores pequeñas y fragantes que pueden ser blancas, rosadas o púrpuras. Puede crecer hasta 1-2 metros de altura y se utiliza comúnmente en jardines como planta ornamental debido a su belleza y resistencia. La Abelia Grandiflora prefiere suelos bien drenados y exposición al sol o sombra parcial."
+    },
+    {
+      "id": "2",
+      "nombre": "Agapanthus",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/agapanthus.jpg",
+      "descripcion": "El Agapanthus (Agapanthus africanus) es una planta perenne originaria de Sudáfrica, conocida por sus flores en forma de umbela que pueden ser azules, violetas o blancas. Puede crecer hasta 1 metro de altura y se utiliza comúnmente en jardines como planta ornamental debido a su belleza y resistencia. El Agapanthus prefiere suelos bien drenados y exposición al sol o sombra parcial."
+    },
+    {
+      "id": "3",
+      "nombre": "Agave",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/agave.jpg",
+      "descripcion": "El Agave (Agave americana) es una planta suculenta originaria de México y el suroeste de Estados Unidos. Es conocido por sus grandes hojas carnosas y puntiagudas que crecen en rosetas. El Agave puede alcanzar alturas de hasta 1.5 metros y se utiliza comúnmente en jardines como planta ornamental debido a su apariencia dramática y resistencia a la sequía. Prefiere suelos bien drenados y exposición al sol."
+    },
+    {
+      "id": "4",
+      "nombre": "Buxus",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/buxus.jpg",
+      "descripcion": "El Buxus (Buxus sempervirens), también conocido como boj, es un arbusto perenne originario de Europa, Asia y África del Norte. Es conocido por su follaje denso y compacto, con hojas pequeñas, ovaladas y de color verde oscuro. El Buxus puede crecer hasta 3-4 metros de altura y se utiliza comúnmente en jardines como seto o planta ornamental debido a su capacidad para ser podado en formas decorativas. Prefiere suelos bien drenados y exposición al sol o sombra parcial."
+    },
+    {
+      "id": "5",
+      "nombre": "Evónimo",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/evonimo.jpg",
+      "descripcion": "El Evónimo (Euonymus japonicus) es un arbusto perenne originario de Asia, conocido por su follaje atractivo que puede ser verde, amarillo o variegado. Puede crecer hasta 2-3 metros de altura y se utiliza comúnmente en jardines como seto o planta ornamental debido a su resistencia y facilidad de cuidado. El Evónimo prefiere suelos bien drenados y exposición al sol o sombra parcial."
+    },
+    {
+      "id": "6",
+      "nombre": "Boina de Vasco",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/boinadevasco.jpg",
+      "descripcion": "La Boina de Vasco (Arctotis stoechadifolia) es un arbusto perenne originario de Sudáfrica, conocido por sus flores grandes y vistosas que pueden ser blancas, rosadas, naranjas o moradas. Puede crecer hasta 1 metro de altura y se utiliza comúnmente en jardines como planta ornamental debido a su belleza y resistencia. La Boina de Vasco prefiere suelos bien drenados y exposición al sol, y es resistente a la sequía una vez establecida."
+    },
+    {
+      "id": "7",
+      "nombre": "Camelia",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/camelia.jpg",
+      "descripcion": "La Camelia (Camellia japonica) es un arbusto perenne originario de Asia, conocido por sus flores grandes y vistosas que pueden ser blancas, rosadas o rojas. Puede crecer hasta 2-3 metros de altura y se utiliza comúnmente en jardines como planta ornamental debido a su belleza y resistencia. La Camelia prefiere suelos ácidos, bien drenados y exposición a la sombra parcial."
+    },
+    {
+      "id": "8",
+      "nombre": "Calisteno",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/calisteno.jpg",
+      "descripcion": "El Calistemo (Callistemon spp.) es un arbusto perenne originario de Australia, conocido por sus flores rojas y llamativas que se asemejan a cepillos de botella. Puede crecer hasta 2-3 metros de altura y se utiliza comúnmente en jardines como planta ornamental, para atraer aves y mariposas, y también es adecuado para setos. El Calistemo prefiere suelos bien drenados y exposición al sol, y es resistente a la sequía una vez establecido."
+    },
+    {
+      "id": "9",
+      "nombre": "Oleo Texana",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/oleotexana.jpg",
+      "descripcion": "El Oleo Texana (Osmanthus fragrans) es un arbusto perenne originario de Asia, conocido por sus pequeñas flores blancas y fragantes que emiten un aroma dulce y agradable. Puede crecer hasta 3-4 metros de altura y se utiliza comúnmente en jardines como planta ornamental, para setos o como planta de interior en macetas. El Oleo Texana prefiere suelos bien drenados y exposición al sol o sombra parcial, y es resistente a la sequía una vez establecido."
+    },
+    {
+      "id": "10",
+      "nombre": "Photinia",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/photinia.jpg",
+      "descripcion": "La Photinia (Photinia x fraseri) es un arbusto perenne originario de Asia, conocido por su follaje atractivo que cambia de color a lo largo del año. Sus hojas jóvenes son de un color rojo brillante que se vuelve verde oscuro a medida que maduran, y en primavera produce racimos de pequeñas flores blancas que atraen a las abejas y mariposas. La Photinia puede crecer hasta 3-4 metros de altura y se utiliza comúnmente en jardines como seto o planta ornamental debido a su capacidad para proporcionar privacidad y su resistencia a la contaminación urbana. Prefiere suelos bien drenados y exposición al sol o sombra parcial."
+    },
+    {
+      "id": "11",
+      "nombre": "Jazmin del Cielo",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/jazmindelcielo.jpg",
+      "descripcion": "El Jazmín del Cielo (Plumbago auriculata) es un arbusto perenne originario de Sudáfrica, conocido por sus flores azules o blancas que florecen en racimos y su follaje verde brillante. Puede crecer hasta 2-3 metros de altura y se utiliza comúnmente en jardines como planta ornamental, para cubrir muros o pérgolas, y también es adecuado para macetas. El Jazmín del Cielo prefiere suelos bien drenados y exposición al sol, y es resistente a la sequía una vez establecido."
+    },
+    {
+      "id": "12",
+      "nombre": "Dodonea",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/dodonea.jpg",
+      "descripcion": "La Dodonea (Dodonaea viscosa) es un arbusto perenne originario de regiones tropicales y subtropicales. Puede crecer hasta 3 metros de altura y se caracteriza por sus hojas verdes brillantes y coriáceas, así como por sus pequeñas flores verdosas que dan lugar a frutos en forma de cápsulas. La Dodonea es resistente a la sequía y prefiere suelos bien drenados y exposición al sol. Es comúnmente utilizada en jardinería como planta ornamental, para setos o para estabilizar suelos en áreas propensas a la erosión."
+    },
+    {
+      "id": "13",
+      "nombre": "Corona de Novia",
+      "categoria": "Arbustos",
+      "imagen": "/assets/img/plantas/arbustos/coronadenovia.jpg",
+      "descripcion": "La Corona de Novia (Stephanotis floribunda) es un arbusto trepador originario de Madagascar, conocido por sus flores blancas y fragantes que simbolizan la pureza y la felicidad en el matrimonio. Es una planta perenne que puede crecer hasta 3 metros de altura, con hojas verdes brillantes y coriáceas. La Corona de Novia requiere un clima cálido y húmedo, y prefiere suelos bien drenados y ricos en materia orgánica. Es ideal para cultivar en macetas o como planta de interior, siempre que reciba suficiente luz indirecta. Esta planta es popular en arreglos florales para bodas debido a su belleza y simbolismo."
+    }
+]

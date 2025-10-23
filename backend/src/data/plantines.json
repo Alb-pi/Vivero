@@ -1,0 +1,79 @@
+[
+  {
+      "id": "1",
+      "nombre": "Pensamiento",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/pensamiento.jpg",
+      "descripcion": "El pensamiento es una planta anual o bienal que pertenece a la familia Violaceae. Es conocido por sus flores coloridas y vibrantes, que pueden presentar una amplia gama de colores, incluyendo tonos de púrpura, azul, amarillo, blanco y rojo. Las flores del pensamiento suelen tener un patrón distintivo en forma de 'cara', lo que las hace especialmente atractivas para los jardineros y amantes de las plantas. El pensamiento es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas frescos y bien drenados. Es comúnmente utilizado en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, el pensamiento también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones respiratorias y cutáneas."
+    },
+    {
+      "id": "2",
+      "nombre": "Petunia",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/petunia.jpg",
+      "descripcion": "La petunia es una planta anual o perenne que pertenece a la familia Solanaceae. Es conocida por sus flores grandes y vistosas, que pueden presentar una amplia gama de colores, incluyendo tonos de púrpura, rosa, rojo, blanco y amarillo. Las flores de la petunia suelen tener una forma acampanada o tubular, y a menudo presentan patrones y combinaciones de colores que las hacen especialmente atractivas para los jardineros y amantes de las plantas. La petunia es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas cálidos y bien drenados. Es comúnmente utilizada en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, la petunia también atrae a polinizadores como abejas y mariposas, lo que la convierte en una excelente opción para promover la biodiversidad en el jardín."
+    },
+    {
+      "id": "3",
+      "nombre": "Margaritas",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/margarita.jpg",
+      "descripcion": "La margarita es una planta perenne que pertenece a la familia Asteraceae. Es conocida por sus flores blancas con un centro amarillo brillante, que le dan un aspecto fresco y alegre. Las margaritas son plantas resistentes que pueden crecer en una variedad de condiciones climáticas, aunque prefieren climas templados y bien drenados. Son comúnmente utilizadas en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, las margaritas también tienen propiedades medicinales y se han utilizado tradicionalmente para tratar afecciones digestivas y respiratorias. Las margaritas son fáciles de cuidar y requieren poco mantenimiento, lo que las convierte en una opción popular para jardineros principiantes y experimentados por igual."
+    },
+    {
+      "id": "4",
+      "nombre": "Geranio",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/geranio.jpg",
+      "descripcion": "El geranio es una planta perenne que pertenece a la familia Geraniaceae. Es conocido por sus flores coloridas y vibrantes, que pueden presentar una amplia gama de colores, incluyendo tonos de rojo, rosa, blanco, púrpura y naranja. Las flores del geranio suelen tener una forma redondeada o en forma de estrella, y a menudo presentan patrones y combinaciones de colores que las hacen especialmente atractivas para los jardineros y amantes de las plantas. El geranio es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas cálidos y bien drenados. Es comúnmente utilizado en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, el geranio también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones respiratorias y cutáneas."
+    },
+    {
+      "id": "5",
+      "nombre": "Primulas",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/primulas.jpg",
+      "descripcion": "La prímula es una planta perenne que pertenece a la familia Primulaceae. Es conocida por sus flores coloridas y vibrantes, que pueden presentar una amplia gama de colores, incluyendo tonos de amarillo, rosa, púrpura, rojo y blanco. Las flores de la prímula suelen tener una forma redondeada o en forma de estrella, y a menudo presentan patrones y combinaciones de colores que las hacen especialmente atractivas para los jardineros y amantes de las plantas. La prímula es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas frescos y bien drenados. Es comúnmente utilizada en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, la prímula también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones respiratorias y cutáneas."
+    },
+    {
+      "id": "6",
+      "nombre": "Calendula",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/calendula.jpg",
+      "descripcion": "La caléndula es una planta anual o perenne que pertenece a la familia Asteraceae. Es conocida por sus flores coloridas y vibrantes, que pueden presentar tonos de amarillo, naranja y dorado. Las flores de la caléndula suelen tener una forma redondeada o en forma de margarita, y a menudo presentan múltiples capas de pétalos que las hacen especialmente atractivas para los jardineros y amantes de las plantas. La caléndula es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas templados y bien drenados. Es comúnmente utilizada en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, la caléndula también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones cutáneas, inflamaciones y heridas."
+    },
+    {
+      "id": "7",
+      "nombre": "Kalanchoe",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/kalanchoe.jpg",
+      "descripcion": "El kalanchoe es una planta suculenta que pertenece a la familia Crassulaceae. Es conocido por sus hojas carnosas y gruesas, que le permiten almacenar agua y sobrevivir en condiciones de sequía. El kalanchoe produce flores pequeñas y coloridas, que pueden presentar tonos de rojo, rosa, amarillo, naranja y blanco. Las flores del kalanchoe suelen tener una forma tubular o en forma de estrella, y a menudo crecen en racimos que las hacen especialmente atractivas para los jardineros y amantes de las plantas. El kalanchoe es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas cálidos y bien drenados. Es comúnmente utilizado en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, el kalanchoe también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones respiratorias y cutáneas."
+    },
+    {
+      "id": "8",
+      "nombre": "Viola",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/viola.jpg",
+      "descripcion": "La viola es una planta anual o perenne que pertenece a la familia Violaceae. Es conocida por sus flores coloridas y vibrantes, que pueden presentar una amplia gama de colores, incluyendo tonos de púrpura, azul, amarillo, blanco y rosa. Las flores de la viola suelen tener una forma redondeada o en forma de corazón, y a menudo presentan patrones y combinaciones de colores que las hacen especialmente atractivas para los jardineros y amantes de las plantas. La viola es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas frescos y bien drenados. Es comúnmente utilizada en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, la viola también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones respiratorias y cutáneas."
+    },
+    {
+      "id": "9",
+      "nombre": "Erigeron",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/erigeron.jpg",
+      "descripcion": "El erigeron, también conocido como fleabane, es una planta perenne que pertenece a la familia Asteraceae. Es conocido por sus flores pequeñas y delicadas, que pueden presentar tonos de blanco, rosa, púrpura y azul. Las flores del erigeron suelen tener una forma similar a la de las margaritas, con un centro amarillo rodeado de pétalos delgados y alargados. El erigeron es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas templados y bien drenados. Es comúnmente utilizado en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, el erigeron también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones respiratorias, digestivas y cutáneas."
+    },
+    {
+      "id": "10",
+      "nombre": "Aliso",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/aliso.jpg",
+      "descripcion": "El aliso es un árbol caducifolio que pertenece a la familia Betulaceae. Es conocido por su rápido crecimiento y su capacidad para adaptarse a una variedad de condiciones climáticas y de suelo. El aliso puede alcanzar alturas de hasta 30 metros y se caracteriza por su corteza lisa y grisácea, así como por sus hojas verdes y ovaladas que se vuelven amarillas en otoño. El aliso es una planta resistente que puede crecer en suelos húmedos y bien drenados, y es comúnmente utilizado en jardines, parques y como planta ornamental en áreas urbanas. Además de su belleza estética, el aliso también tiene propiedades ecológicas importantes, ya que ayuda a mejorar la calidad del suelo y proporciona hábitat para diversas especies de fauna."
+    },
+    {
+      "id": "11",
+      "nombre": "Aleli",
+      "categoria": "Plantines de estación",
+      "imagen": "/assets/img/plantas/plantines/aleli.jpg",
+      "descripcion": "El alhelí, también conocido como aliso o alhelí común, es una planta perenne que pertenece a la familia Brassicaceae. Es conocido por sus flores coloridas y fragantes, que pueden presentar una amplia gama de colores, incluyendo tonos de amarillo, naranja, rojo, rosa, púrpura y blanco. Las flores del alhelí suelen tener una forma tubular o en forma de campana, y a menudo crecen en racimos que las hacen especialmente atractivas para los jardineros y amantes de las plantas. El alhelí es una planta resistente que puede crecer en una variedad de condiciones climáticas, aunque prefiere climas templados y bien drenados. Es comúnmente utilizado en jardines, macetas y como planta ornamental en balcones y terrazas. Además de su belleza estética, el alhelí también tiene propiedades medicinales y se ha utilizado tradicionalmente para tratar afecciones respiratorias y cutáneas."
+    }
+]

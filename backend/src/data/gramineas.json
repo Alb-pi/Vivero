@@ -1,0 +1,58 @@
+[
+  {
+      "id": "1",
+      "nombre": "Pennisetum",
+      "categoria": "Gramineas",
+      "imagen": "/assets/img/plantas/gramineas/pennisetum.jpg",
+      "descripcion": "El Pennisetum es un género de plantas de la familia de las gramíneas, que incluye varias especies conocidas por su valor ornamental y su uso en jardinería. Estas plantas son originarias de regiones cálidas y tropicales, y se caracterizan por sus hojas largas y delgadas, así como por sus inflorescencias en forma de espigas o penachos que pueden variar en color desde el verde hasta tonos púrpuras, rosados o blancos. El Pennisetum es apreciado por su capacidad para agregar textura y movimiento a los jardines, ya que sus hojas y flores se balancean con la brisa. Además, algunas especies de Pennisetum, como el Pennisetum setaceum (cola de zorro), son populares en arreglos florales debido a su apariencia atractiva. Estas plantas suelen ser resistentes a la sequía y requieren poco mantenimiento, lo que las convierte en una opción ideal para jardines xerófitos o de bajo consumo de agua."
+    },
+    {
+      "id": "2",
+      "nombre": "Cortadera",
+      "categoria": "Gramineas",
+      "imagen": "/assets/img/plantas/gramineas/cortadera.jpg",
+      "descripcion": "La Cortadera, también conocida como hierba de la Pampa (Cortaderia selloana), es una planta ornamental perteneciente a la familia de las gramíneas. Originaria de América del Sur, especialmente de Argentina, Uruguay y Brasil, la Cortadera se caracteriza por sus largas hojas estrechas y arqueadas que pueden alcanzar hasta 2 metros de altura. Sin embargo, su característica más distintiva son sus grandes inflorescencias plumosas que emergen en verano y otoño, las cuales pueden medir hasta 3 metros de altura y presentan un color blanco, rosado o púrpura. Estas inflorescencias no solo añaden un elemento visual impresionante a los jardines y paisajes, sino que también proporcionan refugio para aves y otros pequeños animales. La Cortadera es una planta resistente y adaptable que puede prosperar en una variedad de suelos y condiciones climáticas, aunque prefiere lugares soleados y bien drenados. Debido a su rápido crecimiento y capacidad para propagarse fácilmente, es importante controlar su expansión en jardines para evitar que se convierta en una especie invasora."
+    },
+    {
+      "id": "3",
+      "nombre": "Stipa",
+      "categoria": "Gramineas",
+      "imagen": "/assets/img/plantas/gramineas/stipa.jpg",
+      "descripcion": "La Stipa, también conocida como esparto o pasto de pluma, es un género de plantas de la familia de las gramíneas que incluye varias especies apreciadas por su valor ornamental y su resistencia a condiciones adversas. Originarias de regiones templadas y secas de Europa, Asia y América del Norte, las Stipas se caracterizan por sus hojas finas y arqueadas, así como por sus inflorescencias en forma de espigas o penachos que pueden variar en color desde el verde hasta tonos dorados, plateados o marrones. Estas plantas son conocidas por su capacidad para agregar textura y movimiento a los jardines, ya que sus hojas y flores se balancean con la brisa. Además, las Stipas son resistentes a la sequía y requieren poco mantenimiento, lo que las convierte en una opción ideal para jardines xerófitos o de bajo consumo de agua. Algunas especies populares de Stipa incluyen Stipa tenuissima (pasto mexicano) y Stipa gigantea (esparto gigante), ambas valoradas por su apariencia elegante y su adaptabilidad a diferentes tipos de suelo."
+    },
+    {
+      "id": "4",
+      "nombre": "Miscanthus",
+      "categoria": "Gramineas",
+      "imagen": "/assets/img/plantas/gramineas/miscanthus.jpg",
+      "descripcion": "El Miscanthus, también conocido como hierba de elefante o pasto plateado, es un género de plantas de la familia de las gramíneas que incluye varias especies apreciadas por su valor ornamental y su uso en jardinería. Originarias de Asia, las plantas de Miscanthus se caracterizan por sus hojas largas y arqueadas que pueden alcanzar alturas de hasta 3 metros, así como por sus inflorescencias en forma de espigas o penachos que varían en color desde el plateado hasta tonos rosados o púrpuras. Estas plantas son conocidas por su capacidad para agregar textura y movimiento a los jardines, ya que sus hojas y flores se balancean con la brisa. Además, el Miscanthus es resistente a la sequía y requiere poco mantenimiento, lo que lo convierte en una opción ideal para jardines xerófitos o de bajo consumo de agua. Algunas especies populares de Miscanthus incluyen Miscanthus sinensis (hierba japonesa) y Miscanthus giganteus (hierba gigante), ambas valoradas por su apariencia elegante y su adaptabilidad a diferentes tipos de suelo."
+    },
+    {
+      "id": "5",
+      "nombre": "Carex",
+      "categoria": "Gramineas",
+      "imagen": "/assets/img/plantas/gramineas/carex.jpg",
+      "descripcion": "El Carex, comúnmente conocido como junco o espadaña, es un género de plantas de la familia de las ciperáceas que incluye numerosas especies apreciadas por su valor ornamental y su adaptabilidad a diferentes hábitats. Originarias de regiones templadas y frías de todo el mundo, las plantas de Carex se caracterizan por sus hojas largas, estrechas y arqueadas, así como por sus inflorescencias en forma de espigas o racimos que pueden variar en color desde el verde hasta tonos marrones, dorados o rojizos. Estas plantas son conocidas por su capacidad para agregar textura y estructura a los jardines, especialmente en áreas húmedas o acuáticas, ya que muchas especies de Carex prosperan en suelos húmedos o pantanosos. Además, el Carex es resistente a la sequía y requiere poco mantenimiento, lo que lo convierte en una opción ideal para jardines de bajo consumo de agua. Algunas especies populares de Carex incluyen Carex elata (junco alto) y Carex oshimensis (junco japonés), ambas valoradas por su apariencia elegante y su capacidad para adaptarse a diferentes condiciones de crecimiento."
+    },
+    {
+      "id": "6",
+      "nombre": "Muhlenbergia",
+      "categoria": "Gramineas",
+      "imagen": "/assets/img/plantas/gramineas/muhlenbergia.jpg",
+      "descripcion": "La Muhlenbergia es un género de plantas de la familia de las gramíneas que incluye varias especies apreciadas por su valor ornamental y su uso en jardinería. Originarias de América del Norte y Central, las plantas de Muhlenbergia se caracterizan por sus hojas finas y arqueadas, así como por sus inflorescencias en forma de espigas o penachos que pueden variar en color desde el verde hasta tonos púrpuras, rosados o blancos. Estas plantas son conocidas por su capacidad para agregar textura y movimiento a los jardines, ya que sus hojas y flores se balancean con la brisa. Además, la Muhlenbergia es resistente a la sequía y requiere poco mantenimiento, lo que la convierte en una opción ideal para jardines xerófitos o de bajo consumo de agua. Algunas especies populares de Muhlenbergia incluyen Muhlenbergia capillaris (pasto rosa) y Muhlenbergia rigens (pasto azul), ambas valoradas por su apariencia atractiva y su adaptabilidad a diferentes tipos de suelo."
+    },
+    {
+      "id": "7",
+      "nombre": "Calagrostis",
+      "categoria": "Gramineas",
+      "imagen": "/assets/img/plantas/gramineas/calagrostis.jpg",
+      "descripcion": "La Calamagrostis, comúnmente conocida como pasto pluma o pasto de la pradera, es un género de plantas de la familia de las gramíneas que incluye varias especies apreciadas por su valor ornamental y su uso en jardinería. Originarias de regiones templadas y frías de todo el mundo, las plantas de Calamagrostis se caracterizan por sus hojas largas y arqueadas, así como por sus inflorescencias en forma de espigas o penachos que pueden variar en color desde el verde hasta tonos dorados, plateados o marrones. Estas plantas son conocidas por su capacidad para agregar textura y movimiento a los jardines, ya que sus hojas y flores se balancean con la brisa. Además, la Calamagrostis es resistente a la sequía y requiere poco mantenimiento, lo que la convierte en una opción ideal para jardines xerófitos o de bajo consumo de agua. Algunas especies populares de Calamagrostis incluyen Calamagrostis x acutiflora (pasto pluma 'Karl Foerster') y Calamagrostis brachytricha (pasto pluma coreano), ambas valoradas por su apariencia elegante y su adaptabilidad a diferentes tipos de suelo."
+    },
+    {
+      "id": "8",
+      "nombre": "Coiron",
+      "categoria": "Gramineas",
+      "imagen": "/assets/img/plantas/gramineas/coiron.jpg",
+      "descripcion": "El Coirón, conocido científicamente como Festuca gracillima, es una planta de la familia de las gramíneas que se encuentra principalmente en regiones de América del Sur, especialmente en Argentina y Chile. Esta gramínea perenne se caracteriza por sus hojas finas y arqueadas que forman densos mechones, y puede alcanzar alturas de hasta 1 metro. El Coirón es valorado por su resistencia a condiciones climáticas adversas, incluyendo la sequía y el frío, lo que lo convierte en una opción ideal para jardines xerófitos o de bajo consumo de agua. Además, esta planta es apreciada por su capacidad para agregar textura y movimiento a los paisajes, ya que sus hojas se balancean con la brisa. El Coirón también tiene un papel ecológico importante, ya que ayuda a prevenir la erosión del suelo y proporciona hábitat para diversas especies de fauna."
+    }
+]
